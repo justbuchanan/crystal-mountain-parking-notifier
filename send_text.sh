@@ -1,7 +1,11 @@
 #!/bin/bash
 set -e
 
-# twilio login
+# prerequisites:
+#
+# setup twilio account
+# install twilio: `npm install -g twilio-cli`
+# run `twilio login`
 
 # usage: send_text.sh "my message"
 
