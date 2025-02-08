@@ -2,6 +2,8 @@ from selenium import webdriver
 from selenium.webdriver.common.by import By
 from selenium.webdriver.chrome.options import Options
 
+# TODO: refactor so that the date isn't hard-coded
+
 import time
 import json
 
